@@ -8,6 +8,7 @@ in the hope that it will help other people and me :)
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" alt="MasterHead" width="800" height="400" />
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WebNinja95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Aviv salem GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github-readme-stats.vercel.app/api?username=WebNinja95&show_icons=true&theme=transparent)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebNinja95&show_icons=true&theme=transparent)
 
